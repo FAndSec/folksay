@@ -1,7 +1,8 @@
 import sqlite3
 
 class MyDatabase:
-    """Decorator class for inserting questions in database"""
+    """Decorator class for inserting questions in database, we create and increase a table\
+    called Answer and we store the mined questions."""
 
     
     def createDB(self):

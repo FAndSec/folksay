@@ -1,6 +1,6 @@
 import requests
 import json
-from store_in_database import *
+from questiondatabase import MyDatabase
 
 #https://blog.51cto.com/u_14137942/2736234
 

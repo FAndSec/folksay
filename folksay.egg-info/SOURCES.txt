@@ -1,0 +1,6 @@
+README.md
+setup.py
+folksay.egg-info/PKG-INFO
+folksay.egg-info/SOURCES.txt
+folksay.egg-info/dependency_links.txt
+folksay.egg-info/top_level.txt
