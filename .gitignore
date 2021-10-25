@@ -1,4 +1,8 @@
 database
 lib
 .DS_Store
-**/__pycache__/
+__pycache__
+*.csv
+config.json
+keyword_test
+summary_test
